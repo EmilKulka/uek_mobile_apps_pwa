@@ -4,17 +4,17 @@
     "lang": "en-US",
     "icons": [
   {
-    "src": "/images/UEK-logo-192.png",
+    "src": "/uek_mobile_apps_pwa/images/UEK-logo-192.png",
     "sizes": "192x192",
     "type": "image/png"
   },
   {
-    "src": "/images/UEK-logo-512.png",
+    "src": "/uek_mobile_apps_pwa/images/UEK-logo-512.png",
     "sizes": "512x512",
     "type": "image/png"
   }
   ],
-    "start_url": "/index.html",
+    "start_url": "/uek_mobile_apps_pwa/index.html",
     "display": "standalone",
     "theme_color": "#ffffff",
     "background_color": "#f0f0f0"

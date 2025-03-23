@@ -1,16 +1,16 @@
 var cacheName = 'hello-pwa';
 var filesToCache = [
-    '/',
-    '/index.html',
-    '/static/map.html',
-    '/static/sos.html',
-    '/css/style.css',
-    '/js/service-worker.js',
-    '/js/map.js',
-    '/js/sos.js',
-    '/manifest.json',
-    '/images/UEK-logo-192.png',
-    '/images/UEK-logo-512.png'
+    '/uek_mobile_apps_pwa/',
+    '/uek_mobile_apps_pwa/index.html',
+    '/uek_mobile_apps_pwa/static/map.html',
+    '/uek_mobile_apps_pwa/static/sos.html',
+    '/uek_mobile_apps_pwa/css/style.css',
+    '/uek_mobile_apps_pwa/js/service-worker.js',
+    '/uek_mobile_apps_pwa/js/map.js',
+    '/uek_mobile_apps_pwa/js/sos.js',
+    '/uek_mobile_apps_pwa/manifest.json',
+    '/uek_mobile_apps_pwa/images/UEK-logo-192.png',
+    '/uek_mobile_apps_pwa/images/UEK-logo-512.png'
   ];
   
 
